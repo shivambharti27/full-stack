@@ -139,3 +139,139 @@ font-weight: 600;
 
     box-shadow: 0 4px 10px rgba(37, 99, 235, 0.35);
 }
+
+
+/* responsive for phones */
+
+@media (max-width: 600px){
+.nav ul{
+    min-height: 50px;
+    padding: 5px;
+  justify-content: space-between;
+  gap: 5px;
+}
+.nav a{
+    font-size: 13px;
+    text-align: center;
+}
+.header {
+
+        flex-direction: column;
+
+        padding: 20px 15px;
+
+        gap: 20px;
+
+        text-align: center;
+    }
+
+
+    /* Header text */
+
+    .quotes {
+
+        width: 100%;
+
+        padding: 5px;
+    }
+
+
+    .quotes h1 {
+
+        font-size: 28px;
+    }
+
+
+    .abc {
+
+        padding-top: 20px;
+
+        font-size: 21px;
+
+        line-height: 1.4;
+    }
+
+
+    /* Image */
+
+    .image {
+
+        width: 100%;
+    }
+
+
+    .image img {
+
+        width: 100%;
+
+        height: auto;
+
+        max-height: 250px;
+
+        object-fit: cover;
+
+        border-radius: 12px;
+    }
+
+
+    /* Main */
+
+    .main {
+
+        padding-bottom: 20px;
+    }
+
+
+    /* Heading */
+
+    .frontend_notes {
+
+        padding: 15px 10px;
+    }
+
+
+    .frontend_notes h2 {
+
+        font-size: 23px;
+    }
+
+
+    .content_main {
+
+        padding: 0 10px;
+    }
+
+
+    #daylist {
+
+        padding: 5px 0;
+    }
+
+
+    #daylist li {
+
+        padding: 12px;
+
+        margin-bottom: 10px;
+
+        border-radius: 9px;
+    }
+
+
+    /* Day name */
+
+    #daylist li span {
+
+        font-size: 16px;
+    }
+
+
+    /* Button */
+
+    #daylist li a {
+
+        padding: 8px 13px;
+
+        font-size: 13px;
+    }
+}
