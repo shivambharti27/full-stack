@@ -154,6 +154,44 @@
         day:31,
         name:"Day 31",
         link:"https://app.notion.com/p/dom-2-3eb050dc76c780298007f56b7088e994?source=copy_link"
+
+
+    },
+    {
+        day:32,
+        name:"day 32",
+        link:"https://app.notion.com/p/dom-3-3ec050dc76c7803cb815da51c08f4975?source=copy_link"
+    }
+    ,
+    {
+        day:33,
+        name:"day 33",
+        link:"https://app.notion.com/p/dom-4-3ee050dc76c780d589e5cd2b97993b2b?source=copy_link"
+    },
+    {
+        day:34,
+        name:"day 34",
+        link:"https://github.com/CoderMohitt/mega-js-repo/tree/main/Day%2034"
+    },
+    {
+        day:35,
+        name:"day 35",
+        link:"https://app.notion.com/p/fetch-3f1050dc76c7808cab84dcf0c22a623e?source=copy_link"
+    },
+    {
+        day:36,
+        name:"day 36",
+        link:"https://github.com/CoderMohitt/mega-js-repo/tree/main/Day%2036"
+    },
+    {
+        day:37,
+        name:"day 37 tailwind css le-1(setup tailwind)",
+        link:"https://app.notion.com/p/tailwind-1-3f3050dc76c780e2863ddee2e198cb54?source=copy_link"
+    },
+    {
+        day:38,
+        name:"day 38 tailwind css(flex\grid)",
+        link:"https://app.notion.com/p/tailwind-2-3f4050dc76c780c293dddd5535b1a30b?source=copy_link"
     }
 ];
 
