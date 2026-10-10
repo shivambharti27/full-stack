@@ -192,6 +192,11 @@
         day:38,
         name:"day 38 tailwind css(flex\grid)",
         link:"https://app.notion.com/p/tailwind-2-3f4050dc76c780c293dddd5535b1a30b?source=copy_link"
+    },
+    {
+        day:39,
+        name:"day 38 tailwind css(responsive designs)",
+        link:"https://app.notion.com/p/tailwind-3-3f5050dc76c780079766f6dd24275ba5?source=copy_link"
     }
 ];
 
