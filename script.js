@@ -195,8 +195,73 @@
     },
     {
         day:39,
-        name:"day 38 tailwind css(responsive designs)",
+        name:"day 39 tailwind css(responsive designs)",
         link:"https://app.notion.com/p/tailwind-3-3f5050dc76c780079766f6dd24275ba5?source=copy_link"
+    },
+    {
+        day:40,
+        name:"day 40 tailwind css",
+        link:"https://app.notion.com/p/tailwind-4-3f7050dc76c78088bce1ff929a0b1246?source=copy_link"
+    },
+    {
+        day:41,
+        name:"day 41 tailwind css (project)",
+        link:"https://app.notion.com/p/project-3f8050dc76c780378585c683d7b097aa?source=copy_link"
+    },
+    {
+        day:42,
+        name:"day 42 tailwind css same as 41",
+        link:"https://app.notion.com/p/project-3f8050dc76c780378585c683d7b097aa?source=copy_link"
+    },
+    {
+        day:43,
+        name:"day 43 tailwind css",
+        link:"https://app.notion.com/p/tailwind-5-3fa050dc76c78094925dc80172aa3880?source=copy_link"
+    },
+    {
+        day:44,
+        name:"day 44 tailwind css",
+        link:"https://app.notion.com/p/tailwind-6-3fb050dc76c780e792ece6c5cc2743d1?source=copy_link"
+    },
+    {
+        day:45,
+        name:"day 45 tailwind css",
+        link:"https://app.notion.com/p/tailwind-7-3fc050dc76c780418f19dd86a51a2f7b?source=copy_linkk"
+    },
+    {
+        day:46,
+        name:"day 46 same as 46",
+        link:""
+    },
+    {
+        day:47,
+        name:"day 47 React.js",
+        link:"https://app.notion.com/p/react-1-400050dc76c780ed8b65c72b64b06ad3?source=copy_link"
+    },
+    {
+        day:48,
+        name:"day 48 react day2",
+        link:"https://app.notion.com/p/react-1-400050dc76c780ed8b65c72b64b06ad3?source=copy_link"
+    },
+    {
+        day:49,
+        name:"day 49 react day3",
+        link:"https://app.notion.com/p/react-2-403050dc76c78044b0a4cebdbd395677?source=copy_link"
+    },
+    {
+        day:50,
+        name:"day 50 react day4",
+        link:"https://app.notion.com/p/react-3-405050dc76c7806c9f11f23a6bca8bba?source=copy_linkk"
+    },
+    {
+        day:51,
+        name:"day 51 react day5",
+        link:"https://app.notion.com/p/react-4-406050dc76c780698a1acb13bc80ce0c?source=copy_link"
+    },
+    {
+        day:52,
+        name:"day 52 react day6",
+        link:"https://app.notion.com/p/react-4-406050dc76c780698a1acb13bc80ce0c?source=copy_link"
     }
 ];
 
